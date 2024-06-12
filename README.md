@@ -9,9 +9,7 @@ Student.Developer.Researcher
 * ✉️  You can contact me at [kevin.cauchi@outlook.com](mailto:kevin.cauchi@outlook.com)
 * 🧠  I'm learning everything JavaScript
 
-<a href="https://www.x.com/CauchiKevin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/CauchiKevin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 ### Skills
 
 <p align="left">
